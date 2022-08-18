@@ -1,3 +1,6 @@
 [submodule "RIOT"]
 	path = RIOT
 	url = https://github.com/Einhornhool/RIOT
+[submodule "Submod"]
+	url = https://github.com/inetrg/RIOT
+	branch = EWSN-22-Submission
